@@ -1,6 +1,7 @@
 # Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)
 
-> Paper link: https://arxiv.org/pdf/2203.13366.pdf
+> Paper link (P5): https://arxiv.org/pdf/2203.13366.pdf
+> Paper link (OpenP5): https://arxiv.org/pdf/2306.11134.pdf
 
 ![Teaser](pic/teaser.png)
 
